@@ -21,5 +21,5 @@ Welcome to the official GitHub home of Kochi Code. We are a team of developers a
 
 ### 🤝 Let's Collaborate
 We're always open to interesting projects, freelancing opportunities, and technical partnerships.
-*   📧 **Email:** hello@kochicode.com *(or your contact link)*
-*   🌐 **Website:** [kochicode.com](https://kochicode.com)
+*   📧 **Email:** info@kochicode.online 
+*   🌐 **Website:** [kochicode.online](https://kochicode.online)
